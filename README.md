@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🌱 I’m currently learning **Full-Stack Development From Newton School**
+- 🌱 I’m currently learning **Full-Stack Web Development From Newton School**
 
 - 💬 Ask me about **HTML,CSS,Javascript,ReactJS,Python,NodeJs**
 
