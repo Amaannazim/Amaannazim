@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🌱 I’m currently learning **Full-Stack Web Development From Newton School**
+- 🌱 I’m working in a Software Company**Software Engineer in Giesecke+Devrient**
 
-- 💬 Ask me about **HTML,CSS,Javascript,ReactJS,Python,NodeJs**
+- 💬 Ask me about **HTML,CSS,Javascript,ReactJS,Python,NodeJs,.Net,Angular,SQL**
 
 - 📫 How to reach me **amaannazim0@gmail.com**
 
