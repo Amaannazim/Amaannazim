@@ -7,7 +7,7 @@
 ### 🧑‍💻 About Me:
 I'm a software engineer with a passion for full-stack development. I thrive in CI/CD pipelines, love clean code, and enjoy building scalable apps with modern tech.
 
-- 🌱 I’m working in as a **Software Engineer 1 in Giesecke+Devrient**
+- 🌱 I’m currently working as a **Software Engineer 1 in Giesecke+Devrient**
 - 💬 Ask me about **HTML, CSS, JavaScript, C#, ReactJS, NodeJs, .Net, Angular, SQL, BitBucket, Nexus, Git, GitHub, SonarQube, CI/CD, Jenkins, Azure Cloud**
 - 💌 How to reach me:
   <a href="https://mail.google.com/mail/?view=cm&to=amaannazim0@gmail.com" target="_blank">
